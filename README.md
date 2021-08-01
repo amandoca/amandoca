@@ -2,14 +2,11 @@
   
   ##
  
-
 - 🔭 Atualmente, eu trabalho com HelpDesk.
 - 📚 Estudando Análise e Desenvolvimento de Sistemas.
 - 🎓 No Instituto Federal de São Paulo.
 
-  
   ##
-
 
 <b>Estou aprendendo</b>
   
@@ -30,7 +27,6 @@
   <a href="https://github.com/amandoca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandoca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
- 
    
   ##
  
@@ -42,7 +38,6 @@
   <a href = "mailto:amanda.aparecida1905@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    
   ##
- 
  
   ![Snake animation](https://github.com/amandoca/amandoca/blob/output/github-contribution-grid-snake.svg)
  
