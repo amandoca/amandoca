@@ -1,15 +1,15 @@
-### Olá, seja bem-vind@! 👋
+### <h1>Olá, seja bem-vind@! 👋 </h1>
   
   ##
 
  
-- 🔭 Atualmente, eu trabalho com HelpDesk.
-- 📚 Estudando Análise e Desenvolvimento de Sistemas.
-- 🎓 No Instituto Federal de São Paulo.
+<h3> - 🔭 Atualmente, eu trabalho com HelpDesk.</h3>
+<h3> - 📚 Estudando Análise e Desenvolvimento de Sistemas.</h3>
+<h3>- 🎓 No Instituto Federal de São Paulo.</h3>
 
   ##
 
-<b>Estou aprendendo</b>
+<h3><b>Estou aprendendo</b></h3>
    
   <a href="https://github.com/amandoca">
   <div style="display: inline_block"><br>
