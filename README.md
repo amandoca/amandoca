@@ -27,7 +27,7 @@
  <div>
   <a href="https://github.com/amandoca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandoca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Amanda-GIF" src="https://s6.gifyu.com/images/hi0cc34b1870ea7af0.gif">
+  <img align="right" alt="Amanda-GIF" src="https://s6.gifyu.com/images/anigifd65c69acb1d803b6.gif">
 </div>
    
   ##
