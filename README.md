@@ -3,7 +3,7 @@
   ##
 
  
-<h3> - 🔭 Atualmente, eu trabalho com HelpDesk.</h3>
+<h3> - 🔭 Atualmente, eu trabalho como Estagiária de T.I.</h3>
 <h3> - 📚 Estudando Análise e Desenvolvimento de Sistemas.</h3>
 <h3>- 🎓 No Instituto Federal de São Paulo.</h3>
 
