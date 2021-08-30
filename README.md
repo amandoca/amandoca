@@ -37,7 +37,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/amanda-lopes-de-souza-b40814204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/AmandaLopesDeSouza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/12168494669?si=4a92c1ed983f4374" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  	<a href="https://join.skype.com/invite/pxMzM0xkodn4" target="_blank"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/amandoc4/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
