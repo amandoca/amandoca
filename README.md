@@ -3,7 +3,7 @@
   ##
 
  
-<h3> - 🔭 Atualmente, Analista de Sistema.</h3>
+<h3> - 🔭 Analista de Sistema.</h3>
 <h3> - 📚 Estudando Análise e Desenvolvimento de Sistemas.</h3>
 <h3>- 🎓 No Instituto Federal de São Paulo.</h3>
 
