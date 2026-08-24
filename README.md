@@ -1,10 +1,8 @@
 <h1 align="center">Oii, tudo bem? Me chamo Amanda :)</h1>
 
 <p align="center">
-  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em criar interfaces bonitas o suficiente para não dar vontade de abrir um chamado.
+  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em criar interfaces bonitas, funcionais e com menos sustos no console.
 </p>
-
-<hr>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amandalopesdesouza/" target="_blank">
@@ -17,8 +15,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo" />
   </a>
 </p>
-
-<hr>
 
 <p align="center">
   <img height="135" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
@@ -33,8 +29,6 @@
 <p align="center">
   Atualmente estudo desenvolvimento web, testes de software e design de interfaces. Entre um layout e outro, tento encontrar bugs antes que eles encontrem o usuário.
 </p>
-
-<hr>
 
 <h3 align="center">Tecnologias e ferramentas</h3>
 
@@ -58,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=ai" height="36" alt="Adobe Illustrator" title="Adobe Illustrator" />
 </div>
 
-<hr>
-
 <h3 align="center">Áreas de interesse</h3>
 
 <p align="center">
@@ -69,14 +61,14 @@
   <img src="https://img.shields.io/badge/Web-111827?style=for-the-badge&labelColor=111827&color=34D399" alt="web" />
 </p>
 
-<hr>
-
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg">
+    <img width="100%" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ###
