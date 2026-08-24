@@ -1,8 +1,10 @@
 <h1 align="center">Oii, tudo bem? Me chamo Amanda :)</h1>
 
 <p align="center">
-  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em transformar café em interfaces que funcionam.
+  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em criar interfaces bonitas o suficiente para não dar vontade de abrir um chamado.
 </p>
+
+<hr>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amandalopesdesouza/" target="_blank">
@@ -16,7 +18,7 @@
   </a>
 </p>
 
-###
+<hr>
 
 <p align="center">
   <img height="135" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
@@ -32,7 +34,7 @@
   Atualmente estudo desenvolvimento web, testes de software e design de interfaces. Entre um layout e outro, tento encontrar bugs antes que eles encontrem o usuário.
 </p>
 
-###
+<hr>
 
 <h3 align="center">Tecnologias e ferramentas</h3>
 
@@ -56,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=ai" height="36" alt="Adobe Illustrator" title="Adobe Illustrator" />
 </div>
 
-###
+<hr>
 
 <h3 align="center">Áreas de interesse</h3>
 
@@ -67,7 +69,7 @@
   <img src="https://img.shields.io/badge/Web-111827?style=for-the-badge&labelColor=111827&color=34D399" alt="web" />
 </p>
 
-###
+<hr>
 
 <br clear="both">
 
