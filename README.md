@@ -1,7 +1,7 @@
 <h1 align="center">Oii, tudo bem? Me chamo Amanda :)</h1>
 
 <p align="center">
-  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em criar interfaces bonitas, funcionais e com menos sustos no console.
+  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em criar interfaces bonitas.
 </p>
 
 <p align="center">
