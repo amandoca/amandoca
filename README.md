@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/oCsBEjw.jpeg" alt="Ilustração da Amanda" />
+<img align="right" height="155" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
 
 <h3 align="left">Sobre mim</h3>
 
