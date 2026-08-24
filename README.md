@@ -20,13 +20,13 @@
 
 <img align="right" height="155" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="center">Sobre mim</h3>
 
-<p align="left">
+<p align="center">
   Sou Amanda Souza, estudante e desenvolvedora em formação. Gosto de transformar ideias em interfaces organizadas, acessíveis e bem estruturadas.
 </p>
 
-<p align="left">
+<p align="center">
   Atualmente estudo desenvolvimento web, testes de software e design de interfaces. Entre um layout e outro, tento encontrar bugs antes que eles encontrem o usuário.
 </p>
 
@@ -35,23 +35,23 @@
 <h3 align="center">Tecnologias e ferramentas</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="36" alt="vuejs logo" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="36" alt="Vue.js" title="Vue.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma" title="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="36" alt="adobe illustrator logo" />
+  <img src="https://skillicons.dev/icons?i=ai" height="36" alt="Adobe Illustrator" title="Adobe Illustrator" />
 </div>
 
 ###
