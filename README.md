@@ -41,9 +41,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="36" alt="Vue.js" title="Vue.js" />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="36" alt="Cypress" title="Cypress" />
-    <img width="12" />
-
+  <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="36" alt="Cypress" title="Cypress" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" alt="Node.js" title="Node.js" />
