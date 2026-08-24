@@ -23,7 +23,7 @@
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  Sou Amanda Souza, estudante e desenvolvedora em formação. Gosto de transformar ideias em interfaces organizadas, acessíveis e bem estruturadas.
+  Sou pós-graduanda e desenvolvedora. Gosto de transformar ideias em interfaces organizadas, acessíveis e bem estruturadas.
 </p>
 
 <p align="center">
