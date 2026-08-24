@@ -1,7 +1,7 @@
 <h1 align="center">Oii, tudo bem? Me chamo Amanda :)</h1>
 
 <p align="center">
-  Desenvolvedora front-end em evolução, com interesse em QA, UX/UI e criação de experiências digitais funcionais.
+  Desenvolvedora front-end em evolução, interessada em QA, UX/UI e em transformar café em interfaces que funcionam.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  Atualmente estudo desenvolvimento web, testes de software e design de interfaces, unindo código, qualidade e experiência do usuário nos meus projetos.
+  Atualmente estudo desenvolvimento web, testes de software e design de interfaces. Entre um layout e outro, tento encontrar bugs antes que eles encontrem o usuário.
 </p>
 
 ###
