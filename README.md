@@ -18,7 +18,9 @@
 
 ###
 
-<img align="right" height="155" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
+<p align="center">
+  <img height="135" src="./assets/avatar-rounded.png" alt="Ilustração da Amanda" />
+</p>
 
 <h3 align="center">Sobre mim</h3>
 
