@@ -155,25 +155,11 @@
 <br clear="both" />
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="
-        https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph-dark.svg
-      "
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="
-        https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg
-      "
-    />
-    <img
-      width="100%"
-      alt="Gráfico de contribuições"
-      src="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img
+    width="100%"
+    alt="Gráfico de contribuições"
+    src="https://raw.githubusercontent.com/amandoca/amandoca/output/pacman-contribution-graph-dark.svg"
+  />
 </p>
 
 ###
