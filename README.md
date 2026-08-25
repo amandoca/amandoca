@@ -129,6 +129,13 @@
     alt="Google Analytics"
     title="Google Analytics"
   />
+  <img width="12" />
+  <img
+    src="https://cdn.simpleicons.org/googletagmanager/246FDB"
+    height="36"
+    alt="Google Tag Manager"
+    title="Google Tag Manager"
+  />
 </div>
 
 <h3 align="center">Áreas de interesse</h3>
