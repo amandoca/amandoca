@@ -14,14 +14,6 @@
     />
   </a>
 
-  <a href="https://amandoca-portfolio.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
-      height="34"
-      alt="portfolio"
-    />
-  </a>
-
   <a href="mailto:amanda.aparecida1905@hotmail.com" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge"
@@ -37,6 +29,15 @@
       alt="gmail logo"
     />
   </a>
+
+  <a href="https://amandoca-portfolio.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=vercel&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge"
+      height="34"
+      alt="portfolio"
+    />
+  </a>
+  
 </p>
 
 <p align="center">
